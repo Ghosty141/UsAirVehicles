@@ -1,0 +1,10 @@
+{
+    "Name": "US Air Vehicles",
+    "Description": "This mod replaces the SU35-BM Flanker as well as the MI28 Havoc with their US counterparts",
+    "Version": "0.0.9",
+    "HasVeniceEXT": true,
+    "Dependencies": {
+        "veniceext": "^1.0.0"
+    },
+    "authors": [ "Gho$ty" ]
+}
